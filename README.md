@@ -4,7 +4,10 @@ ________________________
 This project is currently in development and will be on-going in jupyter notebooks. The below is an outline of where my thoughts are with the project. This is not a final nor formal README file; nor are my files marked up nor organized as I would in a final production. for those investigating my GitHub, please feel free to read below as a sort of rough outline on my project. 
 ________________________
 
-## UPDATE (11/17): 
+## UPDATES (11/24): 
+Recommender based on the content is functional within a jupyter notebook. Production of a genre classifier was paused this week to focus my time on further reading on LSTR-CNNs for text classifications. 
+
+(11/17)
 Logistic regression models have been made to classify if a podcast is of a certain type of genre. Their accuracy scores are between 70% and 80%. This is initial fitting via gridsearching to find ranges of parameters that should be used for TFiDFVectorizor. The max features for many of the LR models are within 400 features with ngram range at (1,1). Sixteen models were made in 4 hours.
 ________________________
 # Problem Statement:
