@@ -5,7 +5,7 @@ This project is currently in development and will be on-going in jupyter noteboo
 ________________________
 
 ## UPDATES (12/6):
-The first version of the recommender is possible on a personal system with the RAM available, otherwise a cloud computing system will be required. The next step is to publish a flask application that will allow for a better demo of the recommender. Most recent recommender is in the "Final Recommender.ipynb" notebook. The final write up will be published on 12/8 with visuals.
+The first version of the recommender is possible on a personal system with the RAM available, otherwise a cloud computing system will be required. The next step is to publish a flask application that will allow for a better demo of the recommender. Most recent recommender is in the "Final Recommender.ipynb" notebook. The final write up will be published on 12/8 with visuals. Some CSV files are not able to be uploaded due to the size restriction of GitHub. File paths will need to be adjusted for recreation if cloaned.
 
 (11/24)
 Recommender based on the content is functional within a jupyter notebook. Production of a genre classifier was paused this week to focus my time on further reading on LSTR-CNNs for text classifications. 
