@@ -1,0 +1,632 @@
+episode_number,radio_date,title
+1,1995-11-17,New Beginnings
+2,1995-11-24,Small Scale Sin
+3,1995-12-01,Poultry Slam 1995
+4,1995-12-08,Vacations
+5,1995-12-15,Anger and Forgiveness
+6,1995-12-22,Christmas
+7,1995-12-29,Quitting
+8,1996-01-03,New Year
+9,1996-01-10,Julia Sweeney
+10,1996-01-17,Double Lives
+11,1996-01-24,Enemies
+12,1996-01-31,Animals
+13,1996-02-07,Love
+14,1996-02-21,Accidental Documentaries
+15,1996-02-28,Dawn
+16,1996-03-14,Economy
+17,1996-03-21,Name Change / No Theme
+18,1996-03-28,Liars
+19,1996-04-12,Rich Guys
+20,1996-04-19,From A Distance
+21,1996-04-26,Factions
+22,1996-05-03,Adult Children
+23,1996-05-10,Drama Bug
+24,1996-05-24,Teenaged Girls
+25,1996-06-07,Basketball
+26,1996-06-14,Father's Day '96
+27,1996-06-21,The Cruelty of Children
+28,1996-07-12,Detectives
+29,1996-07-19,Bob Dole
+30,1996-07-26,Obsession
+31,1996-08-09,When You Talk About Music
+32,1996-08-16,Republican Convention
+33,1996-08-23,A Night at the Wiener Circle
+34,1996-08-30,Democratic Convention
+35,1996-09-06,Fall Clearance Sale
+36,1996-09-20,Letters
+37,1996-09-27,The Job That Takes Over Your Life
+38,1996-10-11,Simulated Worlds
+39,1996-10-25,Halloween
+40,1996-11-01,Lessons
+41,1996-11-08,Politics
+42,1996-11-15,Get Over It!
+43,1996-11-22,Faustian Bargains
+44,1996-11-29,Poultry Slam 1996
+45,1996-12-06,Media Fringe
+46,1996-12-13,Sissies
+47,1996-12-20,Christmas and Commerce
+48,1997-01-03,Justice
+49,1997-01-10,Animals
+50,1997-01-17,Shoulda Been Dead
+51,1997-01-24,"Animals Die, People Ponder"
+52,1997-01-31,Edge of Sanity
+53,1997-02-07,Valentine’s Day ‘97
+54,1997-02-21,Sinatra
+55,1997-02-28,Three Women and the Sex Industry
+56,1997-03-07,Name Change
+57,1997-03-14,Delivery
+58,1997-04-04,Small Towns
+59,1997-04-11,Fire
+60,1997-04-18,Business of Death
+61,1997-04-25,Fiasco!
+62,1997-05-02,Something for Nothing
+63,1997-05-09,One Thing
+64,1997-05-23,Summer
+65,1997-05-30,Who's Canadian?
+66,1997-06-06,Tales from the Net
+67,1997-06-27,"Your Dream, My Nightmare"
+68,1997-07-04,Lincoln's Second Inaugural
+69,1997-07-18,Dream House
+70,1997-07-25,Other People's Mail
+71,1997-08-01,Defying Sickness
+72,1997-08-08,Trek
+73,1997-08-22,Blame It on Art
+74,1997-08-29,Conventions
+75,1997-09-12,Kindness of Strangers
+76,1997-09-19,Mob
+77,1997-09-26,Pray
+78,1997-10-03,How Bad Is Bad?
+79,1997-10-10,Stuck in the Wrong Decade
+80,1997-10-17,Running After Antelope
+81,1997-10-24,Guns
+82,1997-10-31,Haunted
+83,1997-11-14,One of Us
+84,1997-11-21,Harold
+85,1997-12-05,Poultry Slam 1997
+86,1997-12-12,How to Take Money from Strangers
+87,1997-12-19,A Very Special Sedaris Christmas
+88,1998-01-02,Numbers
+89,1998-01-09,Sibling Rivalry
+90,1998-01-16,Telephone
+91,1998-01-30,Escape the Box
+92,1998-02-06,Leave the Mask On
+93,1998-02-13,Valentine’s Day ’98 
+94,1998-02-27,How To
+95,1998-03-06,Monogamy
+96,1998-03-13,Pinned by History
+97,1998-03-20,Death to Wacky
+98,1998-03-27,Throwing the First Punch
+99,1998-04-10,"I Enjoy Being A Girl, Sort Of"
+100,1998-04-24,Radio
+101,1998-05-01,Niagara
+102,1998-05-22,Road Trip!
+103,1998-05-29,Scenes from A Transplant
+104,1998-06-05,Music Lessons
+105,1998-06-12,Take A Negro Home
+106,1998-06-19,Father’s Day ‘98
+107,1998-07-03,Trail of Tears
+108,1998-08-07,Truth and Lies at Age Ten
+109,1998-08-28,Notes on Camp
+110,1998-09-04,Mapping
+111,1998-09-11,Adventures in the Simple Life
+112,1998-10-02,Ladies and Germs
+113,1998-10-16,Windfall
+114,1998-10-23,Last Words
+115,1998-11-13,First Day
+116,1998-11-27,Poultry Slam 1998
+117,1998-12-11,You Gonna Eat That?
+118,1998-12-18,What You Lookin’ At?
+119,1999-01-08,Lockup
+120,1999-01-22,Be Careful Who You Pretend to Be
+121,1999-01-29,Twentieth Century Man
+122,1999-02-12,Valentine’s Day ’99
+123,1999-02-26,High Cost of Living
+124,1999-03-19,Welcome to America
+125,1999-04-02,Apocalypse
+126,1999-04-09,Do-Gooders
+127,1999-04-16,Pimp Anthropology
+128,1999-04-30,Four Corners
+129,1999-05-14,Advice
+130,1999-05-21,Away From Home
+131,1999-06-04,The Kids Are Alright
+132,1999-06-18,Father’s Day ‘99
+133,1999-06-25,Sales
+134,1999-07-09,We Didn’t
+135,1999-07-23,Allure of Crime
+136,1999-08-06,You Are Here
+137,1999-08-20,The Book That Changed Your Life
+138,1999-08-27,The Real Thing
+139,1999-09-03,Ghosts of Elections Past
+140,1999-09-24,Family Business
+141,1999-10-01,Invisible Worlds
+142,1999-10-15,Barbara
+143,1999-10-22,Sentencing
+144,1999-11-05,Where Words Fail
+145,1999-11-26,Poultry Slam 1999
+146,1999-12-10,Urban Nature
+147,1999-12-17,A Teenager's Guide to God
+148,1999-12-24,The Angels Wanna Wear My Red Suit
+149,2000-01-14,Bedside Diplomacy
+150,2000-01-21,Kids As Adults
+151,2000-01-28,Primary
+152,2000-02-11,Crush
+153,2000-03-03,Dolls
+154,2000-03-10,In Dog We Trust
+155,2000-03-17,Hoaxing Yourself
+156,2000-03-31,What Remains
+157,2000-04-14,Secret Life of Daytime
+158,2000-05-05,Mob Mentality
+159,2000-05-12,Mother’s Day
+160,2000-05-19,Character Assassination
+161,2000-06-02,Million Bubbles
+162,2000-06-23,Moving
+163,2000-06-30,Can You Fight City Hall…If You Are City Hall?
+164,2000-07-07,Crime Scene
+165,2000-07-28,Americans In Paris
+166,2000-08-11,Nobody's Family Is Going to Change
+167,2000-09-08,Memo to the People of the Future
+168,2000-09-15,The Fix Is In
+169,2000-09-29,Pursuit of Happiness
+170,2000-10-13,Immigration
+171,2000-11-03,Election
+172,2000-11-17,24 Hours at the Golden Apple
+173,2000-12-15,Three Kinds of Deception
+174,2000-12-29,"Birthdays, Anniversaries, and Milestones"
+175,2001-01-05,Babysitting
+176,2001-01-26,"Two Nations, One President"
+177,2001-02-09,American Limbo
+178,2001-02-23,Superpowers
+179,2001-03-16,Cicero
+180,2001-03-23,Return to Childhood
+181,2001-04-06,The Friendly Man
+182,2001-04-13,Cringe
+183,2001-04-20,The Missing Parents Bureau
+184,2001-05-11,Neighbors
+185,2001-05-25,Golden Calf
+186,2001-06-08,Prom
+187,2001-06-15,Father's Day '01
+188,2001-06-22,Kid Logic
+189,2001-07-13,Hitler’s Yacht
+190,2001-08-03,Living the Dream
+191,2001-08-17,I Know What You Did This Summer
+192,2001-08-31,Meet the Pros
+193,2001-09-14,Stories of Loss
+194,2001-09-21,Before and After
+195,2001-09-28,War Stories
+196,2001-10-05,Rashomon
+197,2001-10-26,Before It Had A Name
+198,2001-11-02,How to Win Friends and Influence People
+199,2001-11-16,House on Loon Lake
+200,2001-11-30,Hearts and Minds
+201,2001-12-07,Them
+202,2001-12-21,Faith
+203,2002-01-11,Recordings for Someone
+204,2002-01-18,81 Words
+205,2002-02-01,Plan B
+206,2002-03-01,Somewhere in the Arabian Sea
+207,2002-03-08,Special Ed
+208,2002-03-15,Office Politics
+209,2002-03-29,Didn’t Ask to Be Born
+210,2002-04-19,Perfect Evidence
+211,2002-05-03,Naming Names
+212,2002-05-10,The Other Man
+213,2002-05-24,Devil on My Shoulder
+214,2002-05-31,Family Physics
+215,2002-06-14,Ask An Expert
+216,2002-07-12,Give the People What They Want
+217,2002-08-02,Give It to Them
+218,2002-08-09,Act V
+219,2002-08-16,High Speed Chase
+220,2002-08-30,Testosterone
+221,2002-09-20,Fake I.D.
+222,2002-09-27,Suckers
+223,2002-10-11,Classifieds
+224,2002-10-25,Middlemen
+225,2002-11-08,Home Movies
+226,2002-12-06,Reruns
+227,2002-12-20,Why We Fight
+228,2003-01-03,You Are So Beautiful…To Me
+229,2003-01-10,Secret Government
+230,2003-01-31,Come Back to Afghanistan
+231,2003-02-07,Time to Save the World
+232,2003-02-14,The Real Story
+233,2003-03-07,Starting from Scratch
+234,2003-03-14,Say Anything
+235,2003-03-21,The Balloon Goes Up
+236,2003-04-11,My Two Cents
+237,2003-04-18,Regime Change
+238,2003-05-30,Lost in Translation
+239,2003-06-06,Lost in America
+240,2003-06-20,I’m In Charge Now
+241,2003-07-11,20 Acts in 60 Minutes
+242,2003-07-18,Enemy Camp
+243,2003-07-25,Later That Same Day
+244,2003-08-15,MacGyver
+245,2003-09-05,Allure of the Mean Friend
+246,2003-09-12,My Pen Pal
+247,2003-09-19,What Is This Thing?
+248,2003-10-24,Like It or Not
+249,2003-10-31,Garbage
+250,2003-11-07,The Annoying Gap Between Theory...and Practice
+251,2003-11-21,Brother’s Keeper
+252,2003-11-28,Poultry Slam 2003
+253,2003-12-05,The Middle of Nowhere
+254,2003-12-12,"Teenage Embed, Part Two"
+255,2003-12-19,This American Life’s Holiday Gift-Giving Guide
+256,2004-01-09,Living Without
+257,2004-01-16,What I Should’ve Said
+258,2004-01-30,Leaving the Fold
+259,2004-02-20,Promised Land
+260,2004-03-12,The Facts Don’t Matter
+261,2004-03-26,The Sanctity of Marriage
+262,2004-04-02,Miracle Cures
+263,2004-04-16,Desperate Measures
+264,2004-05-07,Special Treatment
+265,2004-05-21,Fake Science
+266,2004-06-04,I'm From the Private Sector and I'm Here to Help
+267,2004-06-11,Propriety
+268,2004-06-25,My Experimental Phase
+269,2004-07-16,Someone to Watch Over Me
+270,2004-08-06,Family Legend
+271,2004-08-20,Best Interests
+272,2004-09-10,Big Tent
+273,2004-09-24,Put Your Heart In It
+274,2004-10-08,Enemy Camp ‘04
+275,2004-10-15,Two Steps Back
+276,2004-10-29,Swing Set
+277,2004-11-05,Apology
+278,2004-11-19,Spies Like Us
+279,2004-12-10,Auto Show
+280,2005-01-07,In Country
+281,2005-01-21,My Big Break
+282,2005-02-11,DIY
+283,2005-02-25,Remember Me
+284,2005-03-11,Should I Stay or Should I Go?
+285,2005-03-25,Know Your Enemy
+286,2005-04-08,Mind Games
+287,2005-04-15,Backed Into A Corner
+288,2005-05-06,Not What I Meant
+289,2005-05-13,Go Ask Your Father
+290,2005-06-03,Godless America
+291,2005-07-01,Reunited (And It Feels So Good)
+292,2005-07-08,The Arms Trader
+293,2005-07-22,A Little Bit of Knowledge
+294,2005-08-05,Image Makers
+295,2005-08-26,Not What I Signed Up For
+296,2005-09-09,After the Flood
+297,2005-09-16,This Is Not My Beautiful House
+298,2005-09-23,Getting and Spending
+299,2005-10-07,Back from the Dead
+300,2005-10-28,What’s In A Number?
+301,2005-11-11,Settling the Score
+302,2005-11-18,Strangers in a Strange Land
+303,2005-12-02,David and Goliath
+304,2005-12-16,Heretics
+305,2005-12-23,The This American Life Holiday Spectacular
+306,2006-01-13,Seemed Like A Good Idea at the Time
+307,2006-02-03,In the Shadow of the City
+308,2006-02-10,Star-Crossed Love
+309,2006-02-24,Cat and Mouse
+310,2006-03-10,Habeas Schmabeas
+311,2006-04-14,A Better Mousetrap
+312,2006-05-12,How We Talked Back Then
+313,2006-05-19,Parental Guidance Suggested
+314,2006-06-23,It's Never Over
+315,2006-07-21,The Parrot and the Potbellied Pig
+316,2006-08-18,The Cat Came Back
+317,2006-09-15,Unconditional Love
+318,2006-10-06,With Great Power
+319,2006-10-27,And the Call Was Coming from the Basement
+320,2006-11-03,What’s In A Number? — 2006 Edition
+321,2006-12-01,Sink or Swim
+322,2006-12-15,Shouting Across the Divide
+323,2007-01-05,The Super
+324,2007-01-26,My Brilliant Plan
+325,2007-02-02,Houses of Ill Repute
+326,2007-02-16,Quiz Show
+327,2007-03-09,By Proxy
+328,2007-03-16,What I Learned from Television
+329,2007-04-06,Nice Work If You Can Get It
+330,2007-04-13,My Reputation
+331,2007-04-27,Habeas Schmabeas 2007
+332,2007-05-04,The Ten Commandments
+333,2007-05-25,The Center for Lessons Learned
+334,2007-06-01,Duty Calls
+335,2007-06-15,Big Wide World
+336,2007-07-06,Who Can You Save?
+337,2007-07-27,Man vs. History
+338,2007-08-10,The Spokesman
+339,2007-08-24,Break-Up
+340,2007-09-07,The Devil in Me
+341,2007-10-05,How to Talk to Kids
+342,2007-11-02,How to Rest in Peace
+343,2007-11-23,Poultry Slam 2007
+344,2007-11-30,The Competition
+345,2007-12-14,Ties That Bind
+346,2007-12-21,Home Alone
+347,2008-01-18,Matchmakers
+348,2008-02-08,Tough Room
+349,2008-02-15,Valentine’s Day 2008
+350,2008-02-29,Human Resources
+351,2008-03-07,Return to Childhood 2008
+352,2008-03-14,The Ghost of Bobby Dunbar
+353,2008-03-28,The Audacity of Government
+354,2008-04-18,Mistakes Were Made
+355,2008-05-09,The Giant Pool of Money
+356,2008-05-30,The Prosecutor
+357,2008-06-13,The Truth Will Out
+358,2008-06-27,Social Engineering
+359,2008-07-18,Life After Death
+360,2008-07-25,Switched At Birth
+361,2008-08-08,Fear of Sleep
+362,2008-08-22,Got You Pegged
+363,2008-09-12,Enforcers
+364,2008-09-26,Going Big
+365,2008-10-03,Another Frightening Show About the Economy
+366,2008-10-10,A Better Mousetrap 2008
+367,2008-10-24,Ground Game
+368,2008-11-07,Who Do You Think You Are?
+369,2008-11-28,Poultry Slam 2008
+370,2008-12-19,Ruining It for the Rest of Us
+371,2008-12-26,Scenes From a Mall
+372,2009-01-16,The Inauguration Show
+373,2009-01-30,The New Boss
+375,2009-02-27,Bad Bank
+376,2009-03-13,Wrong Side of History
+377,2009-03-27,Scenes From a Recession
+378,2009-04-17,This I Used to Believe
+379,2009-05-01,Return To The Scene Of The Crime
+380,2009-05-15,No Map
+381,2009-05-22,Turncoat
+382,2009-06-05,The Watchmen
+383,2009-06-19,Origin Story
+384,2009-06-26,Fall Guy
+385,2009-07-10,Pro Se
+386,2009-07-24,Fine Print
+387,2009-08-07,Arms Trader 2009
+388,2009-09-04,Rest Stop
+389,2009-09-11,Frenemies
+390,2009-09-25,Return To The Giant Pool of Money
+391,2009-10-09,More Is Less
+392,2009-10-16,Someone Else's Money
+393,2009-10-30,Infidelity
+394,2009-11-06,Bait and Switch
+395,2009-11-27,Middle of the Night
+396,2009-12-18,#1 Party School
+397,2010-01-01,2010
+398,2010-01-08,Long Shot
+399,2010-01-22,Contents Unknown
+400,2010-02-12,Stories Pitched by Our Parents
+401,2010-02-19,Parent Trap
+402,2010-03-12,Save the Day
+403,2010-03-26,NUMMI
+404,2010-04-02,Enemy Camp 2010
+405,2010-04-09,Inside Job
+406,2010-04-23,True Urban Legends 
+407,2010-05-07,The Bridge
+408,2010-05-21,Island Time 
+409,2010-06-04,Held Hostage
+410,2010-06-18,Social Contract
+411,2010-06-25,First Contact
+412,2010-07-16,Million Dollar Idea
+413,2010-07-30,Georgia Rambler
+414,2010-09-10,Right to Remain Silent
+415,2010-09-24,Crybabies
+416,2010-10-15,Iraq After Us
+417,2010-10-29,This Party Sucks
+418,2010-11-05,Toxie
+419,2010-11-12,Petty Tyrant
+420,2010-11-19,Neighborhood Watch
+421,2010-12-03,Last Man Standing
+422,2010-12-17,Comedians of Christmas Comedy Special
+423,2011-01-07,The Invention of Money
+424,2011-01-14,Kid Politics
+425,2011-01-21,Slow To React
+426,2011-02-04,Tough Room 2011
+427,2011-02-11,Original Recipe
+428,2011-03-04,Oh You Shouldn't Have
+429,2011-03-11,Will They Know Me Back Home?
+430,2011-03-25,Very Tough Love
+431,2011-04-01,See No Evil
+432,2011-04-08,Know When To Fold ‘Em
+433,2011-04-15,Fine Print 2011
+434,2011-05-06,This Week
+435,2011-05-13,How To Create a Job
+436,2011-05-27,The Psychopath Test
+437,2011-06-03,Old Boys Network
+438,2011-06-17,Father's Day 2011
+439,2011-06-24,A House Divided
+440,2011-07-08,Game Changer
+441,2011-07-22,When Patents Attack!
+442,2011-07-29,Thugs
+443,2011-08-12,Amusement Park
+444,2011-08-26,Gossip
+445,2011-09-09,Ten Years In
+446,2011-09-16,Living Without (2011)
+447,2011-09-23,The Incredible Case of the P.I. Moms
+448,2011-10-07,Adventure!
+449,2011-10-28,Middle School
+450,2011-11-11,So Crazy It Just Might Work
+451,2011-11-18,Back to Penn State
+452,2011-12-02,Poultry Slam 2011
+453,2011-12-16,Nemeses
+454,2012-01-06,Mr. Daisey and the Apple Factory
+455,2012-01-20,Continental Breakup
+456,2012-01-27,Reap What You Sow
+457,2012-02-10,What I Did For Love
+458,2012-02-17,Play the Part
+459,2012-03-02,What Kind of Country
+460,2012-03-16,Retraction
+461,2012-03-30,Take the Money and Run for Office
+462,2012-04-13,Own Worst Enemy
+463,2012-04-27,Mortal Vs. Venial
+464,2012-05-18,Invisible Made Visible
+465,2012-05-25,What Happened At Dos Erres
+466,2012-06-08,Blackjack
+467,2012-06-22,Americans in China
+468,2012-06-29,Switcheroo
+469,2012-07-13,Hiding in Plain Sight
+470,2012-07-27,Show Me the Way
+471,2012-08-10,The Convert
+472,2012-08-17,Our Friend David
+473,2012-08-24,Loopholes
+474,2012-09-14,Back to School
+475,2012-09-28,Send a Message
+476,2012-10-05,What Doesn’t Kill You
+477,2012-10-19,Getting Away With It
+478,2012-11-02,Red State Blue State
+479,2012-11-23,Little War on the Prairie
+480,2012-11-30,Animal Sacrifice
+481,2012-12-07,This Week
+482,2012-12-21,"Lights, Camera, Christmas!"
+483,2013-01-04,Self-Improvement Kick 
+484,2013-01-11,Doppelgängers
+485,2013-01-25,Surrogates
+486,2013-02-08,Valentine’s Day
+487,2013-02-15,Harper High School - Part One
+488,2013-02-22,Harper High School - Part Two
+489,2013-03-01,"No Coincidence, No Story!"
+490,2013-03-22,Trends With Benefits
+491,2013-03-29,Tribes
+492,2013-04-12,Dr. Gilmer and Mr. Hyde
+493,2013-04-19,Picture Show
+494,2013-05-03,Hit the Road
+495,2013-05-17,Hot In My Backyard
+496,2013-05-31,When Patents Attack... Part Two!
+497,2013-06-14,This Week
+498,2013-06-21,The One Thing You're Not Supposed To Do
+499,2013-06-28,Taking Names
+500,2013-07-12,500!
+501,2013-07-26,The View From In Here
+502,2013-08-09,This Call May Be Recorded... To Save Your Life
+503,2013-08-16,I Was Just Trying To Help
+504,2013-09-06,How I Got Into College
+505,2013-09-20,Use Only as Directed
+506,2013-10-04,Secret Identity
+507,2013-10-11,Confessions
+508,2013-10-18,Superpowers 2013
+509,2013-10-25,It Says So Right Here
+510,2013-11-01,Fiasco!
+511,2013-11-08,The Seven Things You’re Not Supposed to Talk About
+512,2013-11-22,House Rules
+513,2013-12-13,129 Cars
+514,2013-12-20,Thought That Counts
+515,2014-01-10,Good Guys
+516,2014-01-17,Stuck In The Middle
+517,2014-01-31,Day At The Beach
+518,2014-02-14,Except For That One Thing
+519,2014-03-07,Dead Men Tell No Tales
+520,2014-03-14,No Place Like Home
+521,2014-03-28,Bad Baby
+522,2014-04-11,Tarred and Feathered
+523,2014-04-25,Death and Taxes
+524,2014-05-02,I Was So High
+525,2014-05-09,Call For Help
+526,2014-05-23,Is That What I Look Like?
+527,2014-06-13,180 Degrees
+528,2014-06-20,The Radio Drama Episode 
+529,2014-06-27,Human Spectacle
+530,2014-07-18,Mind Your Own Business
+531,2014-07-25,Got Your Back
+532,2014-08-15,Magic Words
+533,2014-09-05,"It's Not the Product, It's the Person"
+534,2014-09-12,A Not-So-Simple Majority
+535,2014-09-19,Origin Story 2014
+536,2014-09-26,The Secret Recordings of Carmen Segarra
+537,2014-10-03,The Alibi
+538,2014-10-17,Is This Working?
+539,2014-11-07,The Leap
+540,2014-11-21,A Front
+541,2014-12-05,"Regrets, I've Had a Few"
+542,2014-12-12,Wait - Do You Have The Map?
+543,2014-12-26,Wake Up Now
+544,2015-01-09,Batman
+545,2015-01-23,"If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS"
+546,2015-01-30,Burroughs 101
+547,2015-02-06,"Cops See It Differently, Part One"
+548,2015-02-13,"Cops See It Differently, Part Two"
+549,2015-02-27,Amateur Hour
+550,2015-03-13,Three Miles
+551,2015-03-20,Good Guys 2015
+552,2015-03-27,Need To Know Basis
+553,2015-04-03,Stuck In The Middle (2015)
+554,2015-04-10,Not It!
+555,2015-04-24,The Incredible Rarity of Changing Your Mind
+556,2015-05-01,"Same Bed, Different Dreams"
+557,2015-05-15,Birds & Bees
+558,2015-05-29,Game Face
+559,2015-06-26,Captain's Log
+560,2015-07-03,Abdi and the Golden Ticket
+561,2015-07-17,NUMMI 2015
+562,2015-07-31,The Problem We All Live With - Part One
+563,2015-08-07,The Problem We All Live With - Part Two
+564,2015-08-14,Too Soon?
+565,2015-08-28,Lower 9 + 10
+566,2015-09-11,The Land of Make Believe
+567,2015-09-18,What’s Going On In There?
+568,2015-10-02,Human Spectacle 2015
+569,2015-10-09,Put a Bow on It
+570,2015-10-16,The Night In Question
+571,2015-10-30,The Heart Wants What It Wants
+572,2015-11-06,Transformers
+573,2015-11-27,Status Update
+574,2015-12-11,Sinatra’s 100th Birthday
+575,2015-12-18,Poetry of Propaganda
+576,2015-12-25,Say Yes To Christmas
+577,2016-01-15,Something Only I Can See
+578,2016-01-29,I Thought I Knew You
+579,2016-02-12,My Damn Mind
+580,2016-02-19,That's One Way to Do It
+581,2016-02-26,Anatomy of Doubt 
+582,2016-03-11,When the Beasts Come Marching In
+583,2016-03-25,It’ll Make Sense When You’re Older
+584,2016-04-08,For Your Reconsideration
+585,2016-04-22,In Defense of Ignorance
+586,2016-05-06,Who Do We Think We Are?
+587,2016-05-27,The Perils of Intimacy
+588,2016-06-03,Mind Games 2016
+589,2016-06-17,Tell Me I’m Fat
+590,2016-06-24,Choosing Wrong
+591,2016-07-15,Get Your Money's Worth
+592,2016-07-29,Are We There Yet?
+593,2016-08-05,Don’t Have to Live Like a Refugee
+594,2016-08-12,My Summer Self
+595,2016-08-26,Deep End of the Pool
+596,2016-09-09,Becoming a Badger
+597,2016-09-23,One Last Thing Before I Go
+598,2016-10-07,My Undesirable Talent 
+599,2016-10-21,Seriously?
+600,2016-10-28,Will I Know Anyone at This Party? 
+601,2016-11-04,Master of Her Domain… Name
+602,2016-11-11,The Sun Comes Up
+603,2016-12-02,"Once More, With Feeling"
+604,2016-12-09,20 Years Later
+605,2016-12-16,Kid Logic 2016
+606,2016-12-23,Just What I Wanted
+607,2017-01-06,Didn’t We Solve This One?
+608,2017-01-20,The Revolution Starts At Noon
+609,2017-02-03,It’s Working Out Very Nicely
+610,2017-02-17,Grand Gesture
+611,2017-03-03,Vague and Confused
+612,2017-03-17,Ask a Grown-Up
+613,2017-03-31,"OK, I’ll Do It"
+614,2017-04-14,The Other Mr. President
+615,2017-04-28,The Beginning of Now
+616,2017-05-05,I Am Not A Pirate
+617,2017-05-19,Fermi’s Paradox
+618,2017-06-09,Mr. Lie Detector
+619,2017-06-30,The Magic Show
+620,2017-07-14,To Be Real
+621,2017-07-21,Fear and Loathing in Homer and Rockville
+622,2017-08-04,Who You Gonna Call?
+623,2017-08-18,We Are in the Future
+624,2017-09-01,Private Geography
+625,2017-09-08,Essay B
+626,2017-09-22,White Haze
+627,2017-10-06,Suitable for Children
+628,2017-10-13,In the Shadow of the City 2017
+629,2017-10-20,Expect Delays
+630,2017-10-27,Things I Mean to Know
+631,2017-11-10,So a Monkey and a Horse Walk Into a Bar
+374,2009-02-27,Somewhere Out There
