@@ -4,14 +4,17 @@ ________________________
 This project is currently in development and will be on-going in jupyter notebooks. The below is an outline of where my thoughts are with the project. This is not a final nor formal README file; nor are my files marked up nor organized as I would in a final production. for those investigating my GitHub, please feel free to read below as a sort of rough outline on my project. 
 ________________________
 
-## UPDATES (11/24): 
+## UPDATES (12/6):
+The first version of the recommender is possible on a personal system with the RAM available, otherwise a cloud computing system will be required. The next step is to publish a flask application that will allow for a better demo of the recommender. Most recent recommender is in the "Final Recommender.ipynb" notebook. The final write up will be published on 12/8 with visuals.
+
+(11/24)
 Recommender based on the content is functional within a jupyter notebook. Production of a genre classifier was paused this week to focus my time on further reading on LSTR-CNNs for text classifications. 
 
 (11/17)
 Logistic regression models have been made to classify if a podcast is of a certain type of genre. Their accuracy scores are between 70% and 80%. This is initial fitting via gridsearching to find ranges of parameters that should be used for TFiDFVectorizor. The max features for many of the LR models are within 400 features with ngram range at (1,1). Sixteen models were made in 4 hours.
 ________________________
 # Problem Statement:
-Recommender systems are often focused on pushing products that are similar in “genre”, but the content of items may lead to a more precise recommendation rather than the genre and user rating based system that so many websites employ. This would be a massive improvement in recommendation systems as user engagement is uncontrollable, and analysing the content is easily doable for every item. 
+Collaborative filtering dominates markets where content is not possible for analysis. But with little to no user engagement information, a content based recommender can perform in place of a collaborative filter recommender
 
 Checkpoint:
 
