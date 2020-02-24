@@ -3,7 +3,7 @@
 # Podcast Content Recommender System
 [Slides](https://docs.google.com/presentation/d/1Qy40fhh0Euq8YckrmwKK_Z4MhWib4W0FKJwAOCMsefc/edit?usp=sharing)
 
-![Imgur](https://imgur.com/4wCsqh6)
+![Imgur](https://i.imgur.com/4wCsqh6)
 
 5 point summary
 _________________________
