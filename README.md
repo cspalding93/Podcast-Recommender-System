@@ -3,7 +3,7 @@
 # Podcast Content Recommender System
 [Slides](https://docs.google.com/presentation/d/1Qy40fhh0Euq8YckrmwKK_Z4MhWib4W0FKJwAOCMsefc/edit?usp=sharing)
 
-![Imgur](https://i.imgur.com/4wCsqh6)
+![title](https://i.imgur.com/4wCsqh6.png)
 
 5 point summary
 _________________________
@@ -19,12 +19,12 @@ The goal of any good recommender system is to [“Help members find content to w
    
 Recommendation systems decide on what ad you see, what product you should buy next, or which audiobook should be listened to next. In some such as Netflix, Spotify, and Amazon, the system makes the decision to recommend an item based on the similarity of users. However these user based systems face a particular problem known as “the long tail problem”. 
 
-![Imgur](https://imgur.com/1FAgk81)
+![long tail graph](https://i.imgur.com/1FAgk81.png)
 
 The long-tail problem of user engagement presents itself as a challenge with collaborative filter recommendations. Pandora, the online personal radio website, creatively works around this by attributing musical characteristics to each song manually, thus giving quantifiable content to each song. As an example to show how effective a content based recommendation can be, I build a recommendation system that uses the transcripts of podcasts to make suggestions. 
 _________________________
 ### Data
-![description image](https://imgur.com/EKTgCG7)
+![description image](https://i.imgur.com/EKTgCG7.png)
 Transcript for "This American Life" can be found [here](https://data.world/cjewell/this-american-life-transcripts)
 
 Data set to train the genre modeling can be found [here](https://www.kaggle.com/listennotes/all-podcast-episodes-published-in-december-2017)
@@ -39,7 +39,7 @@ For both datasets, stemming is required as well as punctuation cleaning and sett
 
 Modeling efforts - At first a neural network was attempted in correctly predicting the genre in question. But the neural network would overfit after 2-5 epochs and would not perform significantly better than the logistic regression models. Logistic regression models were produced for each of the 16 genres in order to narrow in on accuracy instead of producing a 16 multi-class classifier that performed poorly (see graph below). Many podcasts had multiple podcasts within their description, and so classifying episodes for multiple genres reflects the original data.
 
-![Imgur](https://imgur.com/IVQzB8t)
+![results of AI models](https://imgur.com/IVQzB8t)[Imgur](https://i.imgur.com/IVQzB8t.png)
 
 Recommendation system - The recommendations will be based off of the cosine similarities between the TFiDF matrix along with the genres that were predicted from the classifiers. 
 _________________________
