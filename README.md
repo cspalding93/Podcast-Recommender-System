@@ -28,15 +28,16 @@ In the context of music, the first item is a single song that has the most plays
 
 ### Similarity Metrics
 
-The goal of any good recommender system is to [“Help members find content to watch and enjoy to maximize member/user satisfaction and retention"](https://www.slideshare.net/moustaki/some-pitfalls-of-distributed-learning). In order to make a successful recommendation, the system must look in the database and order the podcasts in which are most similar in their transcript. The most widely used metric for this is the cosine similarity
+The goal of any good recommender system is to [“Help members find content to watch and enjoy to maximize member/user satisfaction and retention"](https://www.slideshare.net/moustaki/some-pitfalls-of-distributed-learning). In order to make a successful recommendation, the system must look in the database and order the podcasts in which are most similar in their transcript. The most widely used metric for this is the cosine similarity.
 
 ![cosine similarity](https://i.imgur.com/L7jes3w.png)
 - The above photo displays the difference when measuring the Euclidean distance versus the cosine similarity.
 
 A comprehensive look at the cosine similarity can be found [here.](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 _________________________
-## Data
-![description image](https://imgur.com/EKTgCG7)
+### Data
+![description image](https://i.imgur.com/EKTgCG7.png)
+
 Transcript for "This American Life" can be found [here](https://data.world/cjewell/this-american-life-transcripts)
 
 Data set to train the genre modeling can be found [here](https://www.kaggle.com/listennotes/all-podcast-episodes-published-in-december-2017)
@@ -56,7 +57,7 @@ For both datasets, stemming is required as well as punctuation cleaning and sett
 
 Modeling efforts - At first a neural network was attempted in correctly predicting the genre in question. But the neural network would overfit after 2-5 epochs and would not perform significantly better than the logistic regression models. Logistic regression models were produced for each of the 16 genres in order to narrow in on accuracy instead of producing a 16 multi-class classifier that performed poorly (see graph below). Many podcasts had multiple podcasts within their description, and so classifying episodes for multiple genres reflects the original data.
 
-![Imgur](https://imgur.com/IVQzB8t)
+![results of AI models](https://imgur.com/IVQzB8t)[Imgur](https://i.imgur.com/IVQzB8t.png)
 
 (# make a section about the subjectivity of the recommendations made. Talk about metrics that could be employed after the subjective testing)
 
