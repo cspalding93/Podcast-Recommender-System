@@ -41,14 +41,12 @@ _________________________
 Transcript for "This American Life" can be found [here](https://data.world/cjewell/this-american-life-transcripts)
 
 Data set to train the genre modeling can be found [here](https://www.kaggle.com/listennotes/all-podcast-episodes-published-in-december-2017)
-(# down here, needs to be an explanation of the data used and why)
 _________________________
 ## Preprocessing
 List the steps of preprocessing
 
 _________________________
 ## Developing a Recommendation System 
-(# short summary of the steps taken to process the transcripts)
 For “This American Life” data set, the sentences need to be joined together to create a full transcript of every episode. Thankfully that was a very clean dataset. 
 
 The Listennotes dataset required a few extra steps. First, We should drop all genres that are not in the english language. Second, the genres are in a string format with multiple genres separated with a “|”. These need to be split and then transformed into dummy columns. Third, this dataset is very messy and needs to have HTML tags removed. After filtering, check for nulls and drop. This should all result in a cleaned dataset with target dummy columns for their respective genres.
@@ -59,11 +57,7 @@ Modeling efforts - At first a neural network was attempted in correctly predicti
 
 ![results of AI models](https://i.imgur.com/IVQzB8t.png)
 
-(# make a section about the subjectivity of the recommendations made. Talk about metrics that could be employed after the subjective testing)
-
 Recommendation system - The recommendations will be based off of the cosine similarities between the TFiDF matrix along with the genres that were predicted from the classifiers. 
-
-(# go through each of the BOW transformations and explain them. Then implement the word2vec)
 _________________________
 ## Results Summary
 
@@ -73,8 +67,6 @@ _________________________
 3. Genre prediction was used to add content to all of the transcripts
 4. Recommendation performance is best used in measuring user engagement
 5. Reflection: Data quality is a key part of the start of a project 
-
-(# place in something to  show how the recommendation system works)
 
 Measuring the success of the recommendation system is typically in a measurement of user engagement or sales. Since this is a personal project, these metrics are not possible to find. However, on the surface, the recommendation system appears to be doing a great job on picking up on common themes amongst the podcasts. If this were to go into production, the most important questions to answer would to be the following:
 
@@ -91,7 +83,6 @@ There are noticeable flaws in this project that became evident as I matured as a
 These reflections are, of course, from a data scientist early in his career. But thankfully I have come quite far and am proud to create a recommendation system that fulfills the original goal. 
 _________________________
 ## Sources
-(# gotta list these out in full)
 
 - https://www.machinelearningplus.com/nlp/cosine-similarity/
 - https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
