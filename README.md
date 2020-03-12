@@ -1,7 +1,7 @@
 
 
 # Podcast Content Recommender System
-![Imgur](https://imgur.com/4wCsqh6)
+![Imgur](https://i.imgur.com/4wCsqh6.png)
 ___________________________
 ## Index
 
@@ -20,7 +20,7 @@ _________________________
 ### Recommendation systems and their challenges
 Recommendation systems decide on the next ad you see, the next product you should buy, or the next audiobook to put on. In companies such as Netflix, Spotify, and Amazon, the system makes the decision to recommend an item based on the similarity of users. These type of systems are known as *Collaborative-based recommendation systems*. However these user based systems face a particular problem known as “the long tail problem”. The long-tail problem of user engagement is an inherent challenge with collaborative filter recommendations. It is a phenomenon where a majority of the items/products on a platform have little to no user-engagement (see chart below for clarity).
 
-![long tail](https://imgur.com/1FAgk81)
+![long tail](https://i.imgur.com/1FAgk81.png)
 - Y-axis: the number of plays/views/interactions an item in a database received from users.
 - X-axis: the number of items with that specific number of plays/views/interactions from users
 
