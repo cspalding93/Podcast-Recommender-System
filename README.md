@@ -57,7 +57,7 @@ For both datasets, stemming is required as well as punctuation cleaning and sett
 
 Modeling efforts - At first a neural network was attempted in correctly predicting the genre in question. But the neural network would overfit after 2-5 epochs and would not perform significantly better than the logistic regression models. Logistic regression models were produced for each of the 16 genres in order to narrow in on accuracy instead of producing a 16 multi-class classifier that performed poorly (see graph below). Many podcasts had multiple podcasts within their description, and so classifying episodes for multiple genres reflects the original data.
 
-![results of AI models](https://imgur.com/IVQzB8t)[Imgur](https://i.imgur.com/IVQzB8t.png)
+![results of AI models](https://i.imgur.com/IVQzB8t.png)
 
 (# make a section about the subjectivity of the recommendations made. Talk about metrics that could be employed after the subjective testing)
 
